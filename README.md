@@ -3,4 +3,4 @@ Tomcat test repo
 
 You can see the walkthoughs here
 
-https://medium.com/me/stats/post/ed054ba1404f
+https://takahiro-oda.medium.com/devops-create-your-first-ci-cd-pipeline-ed054ba1404f
